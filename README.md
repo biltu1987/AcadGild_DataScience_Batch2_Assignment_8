@@ -1,2 +1,2 @@
-# AcadGild_DataScience_Batch2_Assignment_8
+# AcadGild_DataScience_Batch2_Project_1
 Project 1
